@@ -1,0 +1,2 @@
+pillow
+python=3.6
