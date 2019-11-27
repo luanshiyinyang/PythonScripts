@@ -1,6 +1,9 @@
 ## 简介
 - 一行Python代码可以实现什么丧心病狂的功能。
+
+
 ## 输出型
+
 ### 格式化输出乘法口诀表
 - 代码
   - ```python
@@ -8,6 +11,7 @@
     ```
 - 结果
   - ![](/asset/mul.png)
+  
 ### 打印迷宫
 - 代码
   - ```python
@@ -15,6 +19,7 @@
     ```
 - 结果
   - ![](/asset/maze.png)
+  
 ### 打印爱心图案
 - 代码
   - ```python
@@ -22,6 +27,14 @@
     ```
 - 结果
   - ![](/asset/love.png)
+  
+### 字符串高频字符
+- 代码
+ - ```python
+  print(max(string.ascii_uppercase + string.digits, key='AAAFEvsebb'.count))
+  ```
+  
+
 ## 服务型
 ### 开启Web文件服务
 - 代码
